@@ -1,0 +1,154 @@
+
+	#main_body_h{
+	height:880px;
+	}
+	#menu_h{
+	height:60px; 
+
+}
+	#menu_h ul{
+		margin:0; 
+		padding:0;
+	}
+	#menu_h li{
+		list-style-type:none; 
+	
+		display:block; 
+		width:150px; 
+		height:60px; 
+		text-align:center; 
+		line-height:55px; 
+		font-family: Impact, Tahoma, Geneva, sans-serif; 
+		font-size:18px; 
+	}
+	#menu_h li a{
+		text-decoration:none; 
+		color:black ; 
+	}
+	#menu_h a:Hover{
+			color:#CCC;
+	}
+#menu{
+height:60px; 
+float:left; 
+}
+	#menu ul{
+		margin:0; 
+		padding:0;
+	}
+	#menu li{
+		list-style-type:none; 
+		display:block; 
+		width:150px; 
+		height:60px; 
+		text-align:center; 
+		line-height:55px; 
+		font-family: Impact, Tahoma, Geneva, sans-serif; 
+		font-size:18px; 
+	}
+	#menu li a{
+		text-decoration:none; 
+		color:black ; 
+	}
+	#menu a:Hover{
+			color:#CCC;
+	}
+#body{
+
+/*background-image: url(rust_3.jpg);*/
+}
+
+#container{
+ 
+	margin-top:0;
+	width:1500px; 
+	height:auto; 
+	margin-left:0;
+		;
+	margin-right:auto; 
+
+}
+#main_body{
+	
+	height:980px;
+	margin-left:250px;
+	/*background-color:rgba(0,0,0,0.5);*/
+	
+}
+	#header {
+	height:60px; 
+	}
+
+	#main_body h1{
+	margin-top:0;
+	margin-bottom:0;
+	font-family: Impact, Tahoma, Geneva, sans-serif; 
+	color:black ;
+	padding-top:80px; 
+	padding-left:10px;
+	padding-right:55px; 
+	text-align:left; 
+	text-decoration:none; 
+	}
+	#main_body h2{
+	margin-top:0;
+	margin-bottom:0;
+	font-family: Impact, Tahoma, Geneva, sans-serif; 
+	color:black ;
+	padding-top:80px; 
+	padding-left:10px;
+	padding-right:55px; 
+	text-align:left; 
+	text-decoration:none; 
+	}
+	#main_body p{
+	margin-top:0;
+	margin-bottom:0;
+	font-family: DejaVu Sans Mono,Monospace, Arial, Aharoni, arial black ,  futura bold, impact, Geneva, sans-serif; 
+	color:black ;
+	padding-left:10px;
+	padding-right:160px; 
+	padding-top:10px; 
+	text-align:left; 
+	text-decoration:none; 
+	font-size:18px; 
+	
+	}
+	
+	#youtube_video {
+	
+	margin-left:280px;
+	margin-top: 50px; 
+
+	}
+	
+
+	#main_body a{
+		text-decoration:none; 
+	}
+	#main_body ul{
+	padding-top:80px; 
+	padding-left:55px;
+	padding-right:55px; 
+	text-align:left; 
+	}
+	#main_body li{
+	list-style-type:none;
+	display:block; 
+	width:150px; 
+	height:60px; 
+		
+	line-height:55px; 
+	font-family: Impact, Tahoma, Geneva, sans-serif; 
+	font-size:18px; 
+	}
+	#main_body li a{
+	text-decoration:none; 
+	color:black ; 
+	}
+	
+#footer{
+}
+
+
+
